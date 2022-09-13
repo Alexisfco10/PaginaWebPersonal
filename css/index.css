@@ -1,0 +1,21 @@
+.foto{
+    width: 450px;
+    height: auto;
+    border-radius: 20px;
+}
+
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hobbies{
+    margin-top: -10px;
+}
+
+.estudios{
+    margin-top: -10px;
+}
+
+.texto{
+    margin-left: 470px;
+}
