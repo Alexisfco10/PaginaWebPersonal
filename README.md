@@ -1,4 +1,6 @@
 # PaginaWebPersonal
+In this simple project i can display some info about me.
+![Captura de pantalla del proyecto](src/assets/img/captura.jpg)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
 
